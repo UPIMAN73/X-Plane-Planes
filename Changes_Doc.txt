@@ -1,0 +1,22 @@
+4/16/2018:
+Joshua - Changes:
+Engine:
+* I added 50 HP to the engine so we can go a little faster, but I may tweak the amount of HP as we go just to have the ability to add on more payload weight.
+
+Wings:
+Wing 1 -
+* Semi-length. 16.36 ft
+* Root & tip chord: 4.8 ft
+* Dihedral: 3.5*
+* Angle of incidence: 1.0*
+* Vertical arm: -1.25 ft
+
+Wing 2 - 
+* Semi-length: 2.25 ft
+* Root chord: 5.0 ft
+* Tip chord: 3.0 ft
+* Sweep: 50.0*
+* Dihedral: -5.0*
+* Lat arm: 16.3 ft
+* Vert arm: -0.3 ft
+* Angle of incidence: 4.0*
